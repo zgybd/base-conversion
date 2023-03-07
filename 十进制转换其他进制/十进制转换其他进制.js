@@ -15,6 +15,7 @@ ui.layout(
             <text textSize="18sp"textColor="black"text="进制"/>
             </horizontal>
             <button id="开始"text="开始转换进制"/>
+            <text text="请打开悬浮窗权限" gravity="center"  />
         </vertical>
         </drawer>
 );
